@@ -5,7 +5,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>My Page Title</h1>
-    <input type="text">
+    <h1>WIP</h1>
 </body>
 </html>
